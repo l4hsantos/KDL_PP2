@@ -1,35 +1,35 @@
-Artigo Científico:,Autor,Ano de Publicação,Modelo,Métrica,Resultado,Artigo Científico
-ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,RF,Accuracy,0.796,
-,Ahmed et al.,2024,RF,Precision,0.816,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,RF,Recall,0.878,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,RF,F1-Score,0.846,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Naïve Bayes,Accuracy,0.771,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Naïve Bayes,Precision,0.794,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Naïve Bayes,Recall,0.864,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Naïve Bayes,F1-Score,0.828,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Logistic Regression,Accuracy,0.705,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Logistic Regression,Precision,0.765,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Logistic Regression,Recall,0.776,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Logistic Regression,F1-Score,0.77,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,Accuracy,0.718,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,Precision,0.763,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,Recall,0.81,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,F1-Score,0.786,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,AUC,0.69,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Ahmed et al.,2024,Decision Tree,CV Accuracy,0.72,ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset
-,Zhengyi Zhang,2025,XGBoost,Accuracy,0.85,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
-,Zhengyi Zhang,2025,XGBoost,Recall,0.79,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
-,Zhengyi Zhang,2025,XGBoost,AUC,0.91,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
-,Ali et al.,2025,LightGBM,Accuracy,0.8896,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,LightGBM,Precision,0.8491,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,LightGBM,Recall,0.8333,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,LightGBM,AUC,0.9472,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,XGBoost,Accuracy,0.8831,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,XGBoost,AUC,0.9463,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,Gradient Boosting,Accuracy,0.8766,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,Gradient Boosting,AUC,0.9557,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,Random Forest,Accuracy,0.8506,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,SVM,Accuracy,0.8377,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,KNN,Accuracy,0.8312,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,Decision Tree,Accuracy,0.8182,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
-,Ali et al.,2025,Logistic Regression,Accuracy,0.7922,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+Artigo Científico,Autor,Ano de Publicação,Modelo,Métrica,Resultado
+,Ahmed et al.,2024,RF,Accuracy,0.796
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,RF,Precision,0.816
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,RF,Recall,0.878
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,RF,F1-Score,0.846
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Naïve Bayes,Accuracy,0.771
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Naïve Bayes,Precision,0.794
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Naïve Bayes,Recall,0.864
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Naïve Bayes,F1-Score,0.828
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Logistic Regression,Accuracy,0.705
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Logistic Regression,Precision,0.765
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Logistic Regression,Recall,0.776
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Logistic Regression,F1-Score,0.77
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,Accuracy,0.718
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,Precision,0.763
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,Recall,0.81
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,F1-Score,0.786
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,AUC,0.69
+ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dataset,Ahmed et al.,2024,Decision Tree,CV Accuracy,0.72
+Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset,Zhengyi Zhang,2025,XGBoost,Accuracy,0.85
+Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset,Zhengyi Zhang,2025,XGBoost,Recall,0.79
+Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset,Zhengyi Zhang,2025,XGBoost,AUC,0.91
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,LightGBM,Accuracy,0.8896
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,LightGBM,Precision,0.8491
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,LightGBM,Recall,0.8333
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,LightGBM,AUC,0.9472
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,XGBoost,Accuracy,0.8831
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,XGBoost,AUC,0.9463
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,Gradient Boosting,Accuracy,0.8766
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,Gradient Boosting,AUC,0.9557
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,Random Forest,Accuracy,0.8506
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,SVM,Accuracy,0.8377
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,KNN,Accuracy,0.8312
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,Decision Tree,Accuracy,0.8182
+Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques,Ali et al.,2025,Logistic Regression,Accuracy,0.7922

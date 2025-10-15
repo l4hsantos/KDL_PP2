@@ -20,3 +20,16 @@ ML Algorithm-Based Prediction of Diabetes Among Female Population Using PIMA Dat
 ,Zhengyi Zhang,2025,XGBoost,Accuracy,0.85,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
 ,Zhengyi Zhang,2025,XGBoost,Recall,0.79,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
 ,Zhengyi Zhang,2025,XGBoost,AUC,0.91,Comparison of Machine Learning Models for Predicting Type 2 Diabetes Risk Using the Pima Indians Diabetes Dataset
+,Ali et al.,2025,LightGBM,Accuracy,0.8896,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,LightGBM,Precision,0.8491,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,LightGBM,Recall,0.8333,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,LightGBM,AUC,0.9472,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,XGBoost,Accuracy,0.8831,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,XGBoost,AUC,0.9463,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,Gradient Boosting,Accuracy,0.8766,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,Gradient Boosting,AUC,0.9557,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,Random Forest,Accuracy,0.8506,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,SVM,Accuracy,0.8377,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,KNN,Accuracy,0.8312,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,Decision Tree,Accuracy,0.8182,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques
+,Ali et al.,2025,Logistic Regression,Accuracy,0.7922,Diabetes Prediction on Pima Indians Dataset Using Machine Learning Techniques

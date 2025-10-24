@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KDL GlucoClinic - Previsão de Diabetes</title>
 
+
+
     <style>
         body{
             font-family: Arial, sans-serif;
@@ -13,7 +15,7 @@
         }
 
         header{
-            background-color: #4CAF50;
+            background-color: #88a2ff;
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -48,14 +50,14 @@
             padding: 8px;
             margin-top: 5px;
             border-radius: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid #c0e0ff;
         }
 
         input[type="submit"] {
             margin-top: 20px;
             width: 100%;
             padding: 10px;
-            background-color: #2e8b57;
+            background-color: #253a82;
             border: none;
             color: white;
             font-weight: bold;
@@ -65,7 +67,7 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #246b45;
+            background-color: #e3fc87 ;
         }
 
         .result {
@@ -73,7 +75,7 @@
             text-align: center;
             font-size: 18px;
             font-weight: bold;
-            color: #2e8b57;
+            color: #253a82;
         }
 
     </style>
@@ -90,6 +92,11 @@
     <main>
         <div class="form-container">
             <form method="POST">
+
+
+                <label>Nome Completo (Name):</label>
+                <input type="text" name="Name" required>
+
                 <label>Gravidezes (Pregnancies):</label>
                 <input type="number" name="Pregnancies" step="1" required>
 

@@ -1,18 +1,21 @@
 from flask import Flask, render_template, request
-import joblib
 import numpy as np
+import json
+import os
+import joblib
 
-model = joblib.load("model.pkl")
-
-
+#pip install scikit-learn
 
 app = Flask(__name__)
+
+model = joblib.load("model.pkl")
 
 @app.route("/", methods=["GET", "POST"])
 def index():
     prediction = None  
 
     if request.method == "POST":
+        name = request.form["Name"]
         pregnancies = float(request.form["Pregnancies"])
         glucose = float(request.form["Glucose"])
         bloodpressure = float(request.form["BloodPressure"])
@@ -28,6 +31,32 @@ def index():
        
         pred = model.predict(dados)[0]
         prediction = "Diabetes" if pred == 1 else "Sem Diabetes" 
+
+
+        novo_registro = {
+            "Nome": name,
+            "Gravidezes": pregnancies,
+            "Glicose": glucose,
+            "Pressão Sanguínea": bloodpressure,
+            "Espessura da Pele": skin,
+            "Insulina": insulin,
+            "BMI": bmi,
+            "DPF": dpf,
+            "Idade": age,
+            "Resultado": prediction
+        }
+
+        if not os.path.exists("dados.json"):
+            with open("dados.json", "w") as f:
+                json.dump([], f)
+
+        with open("dados.json", "r") as f:
+            data = json.load(f)
+
+        data.append(novo_registro)
+
+        with open("dados.json", "w") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
 
    
     return render_template("index.html", prediction=prediction)

@@ -1,0 +1,26 @@
+[
+    {
+        "Nome": "Carla Santana",
+        "Gravidezes": 2.0,
+        "Glicose": 98.0,
+        "Pressão Sanguínea": 66.0,
+        "Espessura da Pele": 29.0,
+        "Insulina": 100.0,
+        "BMI": 26.6,
+        "DPF": 0.35,
+        "Idade": 31.0,
+        "Resultado": "Sem Diabetes"
+    },
+    {
+        "Nome": "Camila Trindade",
+        "Gravidezes": 6.0,
+        "Glicose": 165.0,
+        "Pressão Sanguínea": 70.0,
+        "Espessura da Pele": 35.0,
+        "Insulina": 135.0,
+        "BMI": 38.5,
+        "DPF": 0.51,
+        "Idade": 45.0,
+        "Resultado": "Diabetes"
+    }
+]
